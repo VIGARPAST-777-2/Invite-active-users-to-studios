@@ -9,5 +9,6 @@
   "tags": ["studio", "invite", "followers", "comments"],
   "enabled": false,
   "category": "studio",
+  "style": "style.css",
   "icon": "icon.png"
 }
